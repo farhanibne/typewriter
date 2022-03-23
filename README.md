@@ -1,5 +1,4 @@
-# Typing test app for a react youtube tutorial
-
+# Typing test app 
 
 ## Available Scripts
 
